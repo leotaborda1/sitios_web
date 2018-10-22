@@ -1,0 +1,27 @@
+#header {
+    height: auto!important;
+    /*headerHeight*/
+    height: 400px;
+    min-height: 400px;
+    /*headerBGColor*/
+    background-color: #ffffff;
+    /*headerBGURL*/
+    background-image: url(../img/menu.png);
+    /*headerBGRepeat*/
+    background-repeat: no-repeat;
+    /*headerBGPosition*/
+    background-position: 0 0;
+    border: 1px solid/*headerBorderColor*/
+    #005fbf;
+}
+
+#headerContent {
+    /*headerTitleTopMargin*/
+    padding-top: 200px;
+    /*headerTitleColor*/
+    color: #ff7f00;
+    /*headerTitleTextShadowColor*/
+    text-shadow: 1px 1px 1px #191919;
+    /*headerTitleAlign*/
+    text-align: right;
+}
