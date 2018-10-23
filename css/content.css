@@ -20,7 +20,21 @@
     /*headerTitleColor*/
     color: #ff7f00;
     /*headerTitleTextShadowColor*/
-    text-shadow: 1px 1px 1px #191919;
+	text-shadow: 1px 1px 1px #191919;
     /*headerTitleAlign*/
     text-align: right;
+}
+
+/*Estilos pie de pagina*/
+footer{
+
+        position: relative;
+        margin-top: -10px;
+        width: 100%;
+        padding: 50px;
+        clear: both;
+        background: rgb(252, 250, 250);
+        text-align: center;
+        color: #fff;
+
 }
