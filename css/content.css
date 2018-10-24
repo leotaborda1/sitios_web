@@ -38,3 +38,11 @@ footer{
         color: #fff;
 
 }
+
+aside{
+    float: left;
+    padding: 50px;
+    width: 10%;
+    height: 2%;
+
+}
